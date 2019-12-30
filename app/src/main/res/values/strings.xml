@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Employee Provident Fund (EPF)</string>
+    <string name="date">Date of Birth</string>
+    <string name="birthdate">Please select your Birthdate</string>
+    <string name="age">Age</string>
+    <string name="minimum">Min. Basic Saving:</string>
+    <string name="allowableInvestment">Allowable Investment:</string>
+    <string name="calculate">Calculate</string>
+    <string name="clear">Clear</string>
+</resources>
